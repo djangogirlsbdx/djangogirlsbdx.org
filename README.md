@@ -4,8 +4,6 @@
 
 ## Suivez-nous !
 
-http://facebook.com/djangogirlsbdx/
-
-http://twitter.com/DjangoGirlsBdx
-
-https://djangogirls.org/bordeaux/
+* [facebook.com/djangogirlsbdx/](https://facebook.com/djangogirlsbdx/)
+* [twitter.com/DjangoGirlsBdx/](http://twitter.com/DjangoGirlsBdx)
+* [djangogirls.org/bordeaux/](http://djangogirls.org/bordeaux/)
