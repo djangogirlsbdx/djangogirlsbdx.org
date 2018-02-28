@@ -1,9 +1,3 @@
 # Django Girls Bordeaux
 
-> Découvrez le développement web !
-
-## Suivez-nous !
-
-* [facebook.com/djangogirlsbdx/](https://facebook.com/djangogirlsbdx/)
-* [twitter.com/DjangoGirlsBdx/](http://twitter.com/DjangoGirlsBdx)
-* [djangogirls.org/bordeaux/](http://djangogirls.org/bordeaux/)
+Le code du site de notre communauté locale, accessible à l'adresse [http://djangogirlsbdx.org/](http://djangogirlsbdx.org/).
