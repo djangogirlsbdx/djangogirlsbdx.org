@@ -11,7 +11,7 @@ description: Le site vitrine des DjangoGirls Bordeaux.
 
 ## Évènements à venir
 
-  * [DjangoGirls Bordeaux #4](https://djangogirls.org/bordeaux/) (21 avril 2018, au CESI)
+  * [DjangoGirls Bordeaux #5](https://djangogirls.org/bordeaux/) (21 avril 2018, au CESI)
 
 
 ## Nos évènements passés
