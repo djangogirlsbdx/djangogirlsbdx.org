@@ -11,11 +11,14 @@ description: Le site vitrine des DjangoGirls Bordeaux.
 
 ## Évènements à venir
 
-  * [DjangoGirls Bordeaux #5](https://djangogirls.org/bordeaux/) (21 avril 2018, au CESI)
+Malheureusement, nous n'avons aucun évènement programmé pour le moment.
+
+Cependant, nous continuons d'animer notre permanence mensuelle, associée au meetup Python Bordeaux : [www.meetup.com/fr-FR/py-bdx/](https://www.meetup.com/fr-FR/py-bdx/).
 
 
 ## Nos évènements passés
 
+  * DjangoGirls Bordeaux #5 (21 avril 2018, au CESI) : [voir les photos](https://www.flickr.com/photos/djangogirls/sets/72157696144908955/).
   * [Atelier de programmation à destination des femmes](http://www.socialgoodweek.com/portfolio/wizardes-bordeaux-initiation-programmation/) (13 mars 2018, à la Ruche)
   * DjangoGirls Bordeaux #4 (18 mars 2017, à Cap Sciences) : [voir les photos](https://www.flickr.com/photos/djangogirls/sets/72157679892213951/).
   * DjangoGirls Bordeaux #3 (4 juin 2016, à l'espace Saint-Pierre)
